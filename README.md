@@ -5,7 +5,7 @@
 # Deimar López
 </div>
 
-## Programador
+## Programador 🧑🏻‍💻
 
 **Como programador _web_** he trabajado en proyectos como _Colraices_, _Piam_, _Momentum digital_, _Senado Nuevo liberalismo_, _Franquicias colraices_, _Leasing davivienda_,_Advance_, etc.
 
