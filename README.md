@@ -1,4 +1,4 @@
-**Programador Full-Stack y Diseñádor grafico**
+**Developer Full-Stack**
 
 <div align="right">
 
