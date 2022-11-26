@@ -1,4 +1,4 @@
-**Developer Full-Stack**
+**NodeJS / ReactJS Full Stack Developer and programming teacher**
 
 <div align="right">
 
