@@ -49,6 +49,6 @@ Para más información  <a href="mailto:lpzdeimar@gmail.com" target="_blank" rel
 
 ---
 <a href="https://www.linkedin.com/in/deimar-lpz-57075b1b0/" target="_blank" rel="noopener">
-  <img align="center" src="https://media-exp1.licdn.com/dms/image/C4E16AQG4-MearNR-rQ/profile-displaybackgroundimage-shrink_350_1400/0/1625682665762?e=1667433600&v=beta&t=aJaWx0-WxDPwT0G8yeQmBXb-JZPZ-pSqY9JKMLk7Nms">
+  <img align="center" src="https://media-exp1.licdn.com/dms/image/C4E16AQG4-MearNR-rQ/profile-displaybackgroundimage-shrink_350_1400/0/1625682665762?e=1674691200&v=beta&t=KFo9Fq62ER2LWJOmMh4GsaY-38lAfIz02Z5JYh6PU2Y">
 </a>
 
