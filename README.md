@@ -19,36 +19,16 @@ Para más información  <a href="mailto:lpzdeimar@gmail.com" target="_blank" rel
 
 ## Lenguajes
 
-### Front-end
-<ul>
-  <li>JavaScript</li>
-  <li>ReactJS</li>
-  <li>NextJs</li>
-  <li>Astro</li>
-  <li>Sass</li>
-  <li>Css</li>
-  <li>Html</li>
-</ul>
 
-### Backend
-<ul>
-  <li>Laravel</li>
-  <li>NodeJS</li>
-  <li>Php</li>
-  <li>Java</li>
-</ul>
-
-### DB
-<ul>
-  <li>Mysql</li>
-</ul>
-
-### Diseño
-<ul>
-  <li>Illustrator</li>
-  <li>Adobe Xd</li>
-  <li>Figma</li>
-</ul>
+| Front-end | Backend | DB | Diseño | Server |
+|---|---|---|---|---|
+|JavaScript|Java|Mysql|Illustrator|AWS
+|ReactJS|NodeJS|sql|Adobe Xd|Linux
+|NextJs|Php|postgreSQL|Figma|
+|Astro|Laravel|||
+|Sass|Express|||
+|Css||||
+|Html||||
 
 ---
 
