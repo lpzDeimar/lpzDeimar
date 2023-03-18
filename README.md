@@ -24,8 +24,8 @@ Para más información  <a href="mailto:lpzdeimar@gmail.com" target="_blank" rel
 |---|---|---|---|---|
 |JavaScript|Java|Mysql|Illustrator|AWS
 |ReactJS|NodeJS|sql|Adobe Xd|Linux
-|NextJs|Php|postgreSQL|Figma|
-|Astro|Laravel|||Pulumi
+|NextJs|Php|postgreSQL|Figma|Pulumi
+|Astro|Laravel|MongoDB||
 |Sass|Express|||
 |TypeScript||||
 |Css||||
@@ -49,7 +49,7 @@ Para más información  <a href="mailto:lpzdeimar@gmail.com" target="_blank" rel
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 ---
-<a href="https://www.linkedin.com/in/deimar-lpz-57075b1b0/" target="_blank" rel="noopener">
-  <img align="center" src="https://media-exp1.licdn.com/dms/image/C4E16AQG4-MearNR-rQ/profile-displaybackgroundimage-shrink_350_1400/0/1625682665762?e=1674691200&v=beta&t=KFo9Fq62ER2LWJOmMh4GsaY-38lAfIz02Z5JYh6PU2Y">
+<a href="https://www.linkedin.com/in/lpzdeimar/" target="_blank" rel="noopener">
+  <img align="center" src="https://media.licdn.com/dms/image/C4E16AQG4-MearNR-rQ/profile-displaybackgroundimage-shrink_350_1400/0/1625682665762?e=1684368000&v=beta&t=Khy8skNrOFg0vPIizV-ddarq5i4DanE-IijLpw5cr-8">
 </a>
 
