@@ -22,13 +22,13 @@ Para más información  <a href="mailto:lpzdeimar@gmail.com" target="_blank" rel
 
 | Front-end | Backend | DB | Diseño | Server |
 |---|---|---|---|---|
-|JavaScript|Java|Mysql|Illustrator|AWS
-|ReactJS|NodeJS|sql|Adobe Xd|Linux
-|NextJs|Php|postgreSQL|Figma|
-|Astro|Laravel|||
-|Sass|Express|||
-|Css||||
-|Html||||
+|JavaScript|TypeScript|Java|Mysql|Illustrator|AWS
+|ReactJS|NodeJS|sql|Adobe Xd|Linux|
+|NextJs|Php|postgreSQL|Figma||
+|Astro|Laravel||||
+|Sass|Express||||
+|Css|||||
+|Html|||||
 
 ---
 
