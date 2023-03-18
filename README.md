@@ -25,8 +25,9 @@ Para más información  <a href="mailto:lpzdeimar@gmail.com" target="_blank" rel
 |JavaScript|Java|Mysql|Illustrator|AWS
 |ReactJS|NodeJS|sql|Adobe Xd|Linux
 |NextJs|Php|postgreSQL|Figma|
-|Astro|Laravel|||
+|Astro|Laravel|||Pulumi
 |Sass|Express|||
+|TypeScript||||
 |Css||||
 |Html||||
 
