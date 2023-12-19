@@ -3,7 +3,7 @@
 <div align="right">
 
 # Deimar López
-###LpzDeimar
+### LpzDeimar
 </div>
 
 ## Developer 🧑🏻‍💻
@@ -50,6 +50,6 @@ Para más información  <a href="mailto:lpzdeimar@gmail.com" target="_blank" rel
 
 ---
 <a href="https://www.linkedin.com/in/lpzdeimar/" target="_blank" rel="noopener">
-  <img align="center" src="https://media.licdn.com/dms/image/C4E16AQG4-MearNR-rQ/profile-displaybackgroundimage-shrink_350_1400/0/1625682665762?e=1684368000&v=beta&t=Khy8skNrOFg0vPIizV-ddarq5i4DanE-IijLpw5cr-8">
+  <img align="center" src="https://media.licdn.com/dms/image/C4E16AQG4-MearNR-rQ/profile-displaybackgroundimage-shrink_350_1400/0/1625682666365?e=1708560000&v=beta&t=BAVbVmugHBSCN80cNZNu3MIf8458eAUFBGLfw5oM8Mk">
 </a>
 
