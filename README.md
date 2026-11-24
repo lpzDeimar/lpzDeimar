@@ -1,55 +1,62 @@
-**JS Full Stack Developer and programming teacher**
-
-<div align="right">
+<div align="center">
 
 # Deimar López
-### LpzDeimar
+
+**Software Engineer · Full-stack (React / Node.js / AWS) · Desarrollo con agentes de IA**
+
+Bogotá, Colombia · Remoto
+
+[LinkedIn](https://www.linkedin.com/in/lpzdeimar/) · [Torre](https://torre.ai/lpzdeimar) · [lpzdeimar@gmail.com](mailto:lpzdeimar@gmail.com)
+
 </div>
 
-## Developer 🧑🏻‍💻
-
-**Como programador _web_** he trabajado en proyectos como _TSO mobile_, _Gps Trackit_, _Colraices_, _Piam_, _Momentum digital_, _Senado Nuevo liberalismo_, _Franquicias colraices_, _Leasing davivienda_,_Advance_, entre otros.
-
 ---
 
-Para más información  <a href="mailto:lpzdeimar@gmail.com" target="_blank" rel="noopener">lpzdeimar@gmail.com</a>.
+## Sobre mí
 
----
+Ingeniero de software con más de 5 años construyendo productos web y serverless. Hoy trabajo en plataformas de telemática y rastreo de flotas, en remoto.
 
-## Lenguajes
+Mi forma de trabajar cambió con la IA. Ya no escribo todo el código a mano: **diseño el sistema, defino las reglas, pongo a trabajar a agentes de IA y reviso lo que entregan**. Lo que antes tomaba semanas, ahora lo entrego en días, con pruebas y con criterio humano en cada decisión.
 
+## Cómo trabajo con IA
 
-| Front-end | Backend | DB | Diseño | Server |
+- **Agentes a la medida para tareas repetitivas y riesgosas.** Por ejemplo, agentes que auditan repos de AWS Lambda y los migran a Node.js 24: rastrean cómo se invoca cada función, quitan lo que el runtime ya no soporta y entregan hallazgos con archivo y línea. Tienen AWS en solo lectura y un hook que bloquea cualquier escritura.
+- **Productos completos con IA como copiloto.** Construí una PWA de finanzas personales que funciona sin internet y sincroniza con AWS (Cognito, DynamoDB, CloudFront, Pulumi). Tiene pruebas automáticas y despliegue con un solo comando.
+- **Reglas claras para la IA:** contexto del proyecto en archivos (`CLAUDE.md`), permisos mínimos, pruebas antes de publicar y revisión humana de todo lo que sale.
+
+## Experiencia
+
+| Empresa | Rol | Fechas |
+|---|---|---|
+| Zonar Systems | Ingeniero de software | dic 2024 – hoy |
+| TSO Mobile | Ingeniero de software | feb 2023 – hoy |
+| Generation · BIT Bogotá | Profesor de programación | nov 2022 – feb 2023 |
+| Advance Servicios Integrales | Desarrollador de software | oct 2021 – ago 2022 |
+| Colraices | Programador web | sep 2021 – ago 2022 |
+
+Proyectos web anteriores: TSO Mobile, GPS Trackit, Colraices, Piam, Momentum Digital, Senado Nuevo Liberalismo, Franquicias Colraices, Leasing Davivienda y Advance.
+
+## Tecnologías
+
+| Frontend | Backend | Nube e infraestructura | Datos | IA |
 |---|---|---|---|---|
-|JavaScript|Java|Mysql|Illustrator|AWS
-|ReactJS|NodeJS|sql|Adobe Xd|Linux
-|NextJs|Php|postgreSQL|Figma|Pulumi
-|Astro|Laravel|MongoDB||
-|Sass|Express|||
-|TypeScript||||
-|Css||||
-|Html||||
+| React · Next.js · Astro | Node.js · Express | AWS Lambda · API Gateway | DynamoDB | Claude Code |
+| TypeScript · JavaScript | Java · Spring Boot | Cognito · S3 · CloudFront | MySQL · PostgreSQL | Agentes y subagentes |
+| Tailwind · Sass · CSS | PHP · Laravel | Pulumi (IaC) · Docker | MongoDB | MCP |
+| PWA · Vite | REST · GraphQL (AppSync) | CI/CD · GitHub Actions | IndexedDB (Dexie) | Prompts y hooks |
+
+También: Git, Scrum, diseño UI/UX (Figma, Illustrator).
+
+## Formación
+
+- **SENA** · Tecnólogo en programación de software (2020–2022), con logro a la excelencia.
+- **Corporación Universitaria Iberoamericana** · Ingeniería de software.
+- **Platzi** · Ruta de desarrollo, en formación continua desde 2021.
 
 ---
 
-## Habilidades
-<ul>
-  <li>SCRUM</li>
-  <li>CI/CD</li>
-  <li>Desarrollo agil</li>
-  <li>Diseño UI UX</li>
-</ul>
+<div align="center">
 
----
+¿Quieres construir algo con IA de verdad, no solo una demo? **Escríbeme.**
 
-## Licencias
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
----
-<a href="https://www.linkedin.com/in/lpzdeimar/" target="_blank" rel="noopener">
-  <img align="center" src="https://media.licdn.com/dms/image/v2/C4E16AQG4-MearNR-rQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1625682666365?e=1733961600&v=beta&t=CqVr3AykPKFCiuWTGAtSMKt9EINQuMOaUrDE-3ccWJI">
-</a>
-
+</div>
