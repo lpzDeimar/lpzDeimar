@@ -47,7 +47,9 @@ Proyectos web anteriores: TSO Mobile, GPS Trackit, Colraices, Piam, Momentum Dig
 | Vite · Webpack | | REST · GraphQL · Socket.io | | | |
 
 **Pruebas y calidad:** Jest · Vitest · Testing Library · Storybook · ESLint · Prettier · Biome.
+
 **Librerías que uso seguido:** React Router · React Hook Form · Zod · Zustand · GSAP · Recharts · FullCalendar.
+
 **También:** Git, Scrum, diseño UI/UX (Figma, Illustrator).
 
 ## Formación
