@@ -38,14 +38,17 @@ Proyectos web anteriores: TSO Mobile, GPS Trackit, Colraices, Piam, Momentum Dig
 
 ## Tecnologías
 
-| Frontend | Backend | Nube e infraestructura | Datos | IA |
-|---|---|---|---|---|
-| React · Next.js · Astro | Node.js · Express | AWS (serverless) | SQL y NoSQL | Claude Code |
-| TypeScript · JavaScript | Java · Spring Boot | Infraestructura como código | MySQL · PostgreSQL | Agentes y subagentes |
-| Tailwind · Sass · CSS | PHP · Laravel | Docker | MongoDB | MCP |
-| PWA · Vite | REST · GraphQL | CI/CD | | Prompts y hooks |
+| Frontend | Móvil | Backend | Nube e infraestructura | Datos | IA |
+|---|---|---|---|---|---|
+| React · Next.js · Astro | React Native | Node.js · Express · NestJS | AWS (serverless) | MySQL · PostgreSQL | Claude Code |
+| TypeScript · JavaScript | PWA | Java · Spring Boot | Infraestructura como código | MongoDB | Agentes y subagentes |
+| Tailwind · Sass · CSS | | Python · Django | Docker · Docker Compose | SQL y NoSQL | MCP |
+| MUI · Ant Design | | PHP · Laravel | CI/CD | | Prompts y hooks |
+| Vite · Webpack | | REST · GraphQL · Socket.io | | | |
 
-También: Git, Scrum, diseño UI/UX (Figma, Illustrator).
+**Pruebas y calidad:** Jest · Vitest · Testing Library · Storybook · ESLint · Prettier · Biome.
+**Librerías que uso seguido:** React Router · React Hook Form · Zod · Zustand · GSAP · Recharts · FullCalendar.
+**También:** Git, Scrum, diseño UI/UX (Figma, Illustrator).
 
 ## Formación
 
