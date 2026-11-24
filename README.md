@@ -14,14 +14,14 @@ Bogotá, Colombia · Remoto
 
 ## Sobre mí
 
-Ingeniero de software con más de 5 años construyendo productos web y serverless. Hoy trabajo en plataformas de telemática y rastreo de flotas, en remoto.
+Ingeniero de software con más de 5 años construyendo productos web y en la nube. Trabajo en remoto.
 
 Mi forma de trabajar cambió con la IA. Ya no escribo todo el código a mano: **diseño el sistema, defino las reglas, pongo a trabajar a agentes de IA y reviso lo que entregan**. Lo que antes tomaba semanas, ahora lo entrego en días, con pruebas y con criterio humano en cada decisión.
 
 ## Cómo trabajo con IA
 
-- **Agentes a la medida para tareas repetitivas y riesgosas.** Por ejemplo, agentes que auditan repos de AWS Lambda y los migran a Node.js 24: rastrean cómo se invoca cada función, quitan lo que el runtime ya no soporta y entregan hallazgos con archivo y línea. Tienen AWS en solo lectura y un hook que bloquea cualquier escritura.
-- **Productos completos con IA como copiloto.** Construí una PWA de finanzas personales que funciona sin internet y sincroniza con AWS (Cognito, DynamoDB, CloudFront, Pulumi). Tiene pruebas automáticas y despliegue con un solo comando.
+- **Agentes a la medida para tareas repetitivas:** auditorías de código, migraciones y revisiones, con permisos mínimos y validación antes de cada cambio.
+- **Productos completos con IA como copiloto:** proyectos personales de punta a punta, desde el diseño hasta el despliegue en la nube, con pruebas automáticas.
 - **Reglas claras para la IA:** contexto del proyecto en archivos (`CLAUDE.md`), permisos mínimos, pruebas antes de publicar y revisión humana de todo lo que sale.
 
 ## Experiencia
@@ -40,10 +40,10 @@ Proyectos web anteriores: TSO Mobile, GPS Trackit, Colraices, Piam, Momentum Dig
 
 | Frontend | Backend | Nube e infraestructura | Datos | IA |
 |---|---|---|---|---|
-| React · Next.js · Astro | Node.js · Express | AWS Lambda · API Gateway | DynamoDB | Claude Code |
-| TypeScript · JavaScript | Java · Spring Boot | Cognito · S3 · CloudFront | MySQL · PostgreSQL | Agentes y subagentes |
-| Tailwind · Sass · CSS | PHP · Laravel | Pulumi (IaC) · Docker | MongoDB | MCP |
-| PWA · Vite | REST · GraphQL (AppSync) | CI/CD · GitHub Actions | IndexedDB (Dexie) | Prompts y hooks |
+| React · Next.js · Astro | Node.js · Express | AWS (serverless) | SQL y NoSQL | Claude Code |
+| TypeScript · JavaScript | Java · Spring Boot | Infraestructura como código | MySQL · PostgreSQL | Agentes y subagentes |
+| Tailwind · Sass · CSS | PHP · Laravel | Docker | MongoDB | MCP |
+| PWA · Vite | REST · GraphQL | CI/CD | | Prompts y hooks |
 
 También: Git, Scrum, diseño UI/UX (Figma, Illustrator).
 
